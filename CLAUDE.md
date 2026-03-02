@@ -1,11 +1,11 @@
-# CLAUDE.MD -- Applied Econometrics Research with Claude Code
+# CLAUDE.MD -- Political Science Research with Claude Code
 
 <!-- HOW TO USE: Replace [BRACKETED PLACEHOLDERS] with your project info.
      Customize Beamer environments for your talk preamble.
      Keep this file under ~150 lines — Claude loads it every session.
      See the guide at https://hsantanna88.github.io/clo-author/ for full documentation. -->
 
-**Project:** [YOUR PROJECT NAME]
+**Project:** The Guardianship Dillemma
 **Institution:** [YOUR INSTITUTION]
 **Branch:** main
 
